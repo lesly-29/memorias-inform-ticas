@@ -1,0 +1,42 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	font-family: sans serif;
+}
+body{
+	background= #E7EBEC
+}
+	
+
+}
+.container-all{
+	width:100%;
+	max-width:100%;
+	margin:auto;
+	padding:60px;
+	background:blue;
+	margin-top: 100%;
+	border-top:6px solid #6DB3C2;
+}
+
+
+.container-all img{
+	width:300px;	
+	float:left;
+	margin-right:20px;
+	margin-bottom: 20px;
+	
+}
+
+.container-all p{
+	font-size:20px;
+	font-weight:300px;
+}
+
+
+	
+	
+
+
+
